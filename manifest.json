@@ -1,0 +1,14 @@
+{
+  "name": "MY MONEY 家計簿",
+  "short_name": "MY MONEY",
+  "description": "給料日ベースで管理する自分専用の家計簿",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#f7f8fa",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
